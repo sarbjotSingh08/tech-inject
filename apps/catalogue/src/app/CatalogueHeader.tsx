@@ -114,7 +114,7 @@ export function CatalogueHeader() {
             Get Started
           </Link>
           <a
-            href="http://localhost:3001"
+            href="https://tech-inject-admin-three.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
