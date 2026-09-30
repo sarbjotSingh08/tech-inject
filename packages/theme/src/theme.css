@@ -1,0 +1,81 @@
+/* Sales CRM Visual Design Tokens & Theme Variables */
+:root {
+  /* Colors - Dark Theme Default (Sales CRM Style) */
+  --ti-bg-app: #090d16;
+  --ti-bg-surface: #111827;
+  --ti-bg-surface-hover: #1f2937;
+  --ti-bg-card: #131c2e;
+  --ti-bg-card-hover: #1a263d;
+  --ti-bg-muted: #1e293b;
+
+  /* Borders */
+  --ti-border-subtle: #1e293b;
+  --ti-border-medium: #334155;
+  --ti-border-strong: #475569;
+  --ti-border-focus: #6366f1;
+
+  /* Typography Colors */
+  --ti-text-primary: #f8fafc;
+  --ti-text-secondary: #94a3b8;
+  --ti-text-muted: #64748b;
+  --ti-text-inverse: #0f172a;
+
+  /* Accents */
+  --ti-color-primary: #6366f1;
+  --ti-color-primary-hover: #4f46e5;
+  --ti-color-primary-light: rgba(99, 102, 241, 0.15);
+
+  --ti-color-success: #10b981;
+  --ti-color-success-light: rgba(16, 185, 129, 0.15);
+
+  --ti-color-warning: #f59e0b;
+  --ti-color-warning-light: rgba(245, 158, 11, 0.15);
+
+  --ti-color-danger: #ef4444;
+  --ti-color-danger-light: rgba(239, 68, 68, 0.15);
+
+  --ti-color-premium: #a855f7;
+  --ti-color-premium-light: rgba(168, 85, 247, 0.15);
+
+  /* Radii */
+  --ti-radius-sm: 4px;
+  --ti-radius-md: 6px;
+  --ti-radius-lg: 8px;
+  --ti-radius-xl: 12px;
+  --ti-radius-pill: 9999px;
+
+  /* Shadows */
+  --ti-shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  --ti-shadow-md:
+    0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  --ti-shadow-lg:
+    0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.3);
+  --ti-shadow-glow: 0 0 15px rgba(99, 102, 241, 0.25);
+
+  /* Font Family */
+  --ti-font-sans:
+    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --ti-font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+/* Light Theme Overrides (if toggled) */
+[data-theme="light"] {
+  --ti-bg-app: #f8fafc;
+  --ti-bg-surface: #ffffff;
+  --ti-bg-surface-hover: #f1f5f9;
+  --ti-bg-card: #ffffff;
+  --ti-bg-card-hover: #f8fafc;
+  --ti-bg-muted: #e2e8f0;
+
+  --ti-border-subtle: #e2e8f0;
+  --ti-border-medium: #cbd5e1;
+  --ti-border-strong: #94a3b8;
+
+  --ti-text-primary: #0f172a;
+  --ti-text-secondary: #475569;
+  --ti-text-muted: #94a3b8;
+  --ti-text-inverse: #f8fafc;
+
+  --ti-shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --ti-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+}

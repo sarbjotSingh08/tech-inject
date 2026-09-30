@@ -1,0 +1,21 @@
+{
+  "name": "tech-inject-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "format:check": "prettier --check \"**/*.{ts,tsx,md,json,css}\"",
+    "format": "prettier --write \"**/*.{ts,tsx,md,json,css}\""
+  },
+  "devDependencies": {
+    "turbo": "^2.4.0",
+    "typescript": "^5.7.2",
+    "prettier": "^3.4.2",
+    "vitest": "^3.0.0"
+  },
+  "packageManager": "pnpm@10.5.2"
+}
