@@ -87,7 +87,9 @@ export function AdminHeader() {
 
       <div style={{ display: "flex", alignItems: "center", gap: "16px" }}>
         <a
-          href="http://localhost:3000"
+          href={
+            process.env.NEXT_PUBLIC_CATALOGUE_URL || "https://tech-inject-uvk5.vercel.app/components"
+          }
           target="_blank"
           rel="noopener noreferrer"
           style={{

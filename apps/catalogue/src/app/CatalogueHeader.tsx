@@ -114,7 +114,10 @@ export function CatalogueHeader() {
             Get Started
           </Link>
           <a
-            href="https://tech-inject-admin-three.vercel.app/"
+            href={
+              process.env.NEXT_PUBLIC_ADMIN_URL ||
+              "https://tech-inject-admin-three.vercel.app/"
+            }
             target="_blank"
             rel="noopener noreferrer"
             style={{
