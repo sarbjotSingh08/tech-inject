@@ -201,7 +201,7 @@ export default function SandboxPage() {
           }}
         >
           <UI.Button variant="primary">Sandbox Ready</UI.Button>
-          <UI.Badge status="success">Active Host</UI.Badge>
+          <UI.Badge variant="success">Active Host</UI.Badge>
         </div>
       </div>
     );

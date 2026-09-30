@@ -127,10 +127,10 @@
       "description": "Versatile interactive button component styled after Sales CRM design tokens.",
       "category": "buttons",
       "accessLevel": "free",
-      "status": "published",
+      "status": "unpublished",
       "currentVersionId": "ver_8a4d78fb-222d-4e1a-ab78-699055971833",
       "createdAt": "2026-09-30T04:26:37.024Z",
-      "updatedAt": "2026-09-30T04:26:37.029Z"
+      "updatedAt": "2026-09-30T06:43:25.556Z"
     },
     {
       "id": "comp_d91be394-cb9b-433b-b6c4-83162cb2a877",
@@ -1523,6 +1523,366 @@
       "currentVersionId": "ver_a21e8f58-4b49-447c-9a25-a8443fa2b0bd",
       "createdAt": "2026-09-30T05:34:27.340Z",
       "updatedAt": "2026-09-30T05:34:27.363Z"
+    },
+    {
+      "id": "comp_3dc60275-979a-44c2-8e63-f0f7c7f5d8e6",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_d2f949de-870d-4f0a-bada-0bcf24dba2f7",
+      "createdAt": "2026-09-30T06:43:23.875Z",
+      "updatedAt": "2026-09-30T06:43:23.892Z"
+    },
+    {
+      "id": "comp_df58fcd4-55a1-4085-aad4-878497265053",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_1084aec0-ba8b-417d-ac84-3605d96e8d6f",
+      "createdAt": "2026-09-30T06:43:23.900Z",
+      "updatedAt": "2026-09-30T06:43:23.916Z"
+    },
+    {
+      "id": "comp_44843830-e5a1-45ae-bc87-fb8cedca1a1c",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_989928f9-f02d-45e3-9c4f-803369ab7bb5",
+      "createdAt": "2026-09-30T06:43:23.924Z",
+      "updatedAt": "2026-09-30T06:43:23.940Z"
+    },
+    {
+      "id": "comp_7789d5b4-5cfa-4ab9-88fc-528ec0b5d052",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_4a737246-b009-4733-b1e9-7dd43c0d49d3",
+      "createdAt": "2026-09-30T06:43:23.949Z",
+      "updatedAt": "2026-09-30T06:43:23.969Z"
+    },
+    {
+      "id": "comp_8790f717-9f4d-4f18-807a-dd87c7e29df7",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_2510e6ec-f44d-4aa1-ae44-d72eb25ff190",
+      "createdAt": "2026-09-30T06:43:23.977Z",
+      "updatedAt": "2026-09-30T06:43:23.993Z"
+    },
+    {
+      "id": "comp_32b7c971-6bb2-4fa4-af6a-345da17b878d",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_9bfa66e0-a7a1-48ec-bbac-eab27efb56d4",
+      "createdAt": "2026-09-30T06:43:24.240Z",
+      "updatedAt": "2026-09-30T06:43:24.259Z"
+    },
+    {
+      "id": "comp_bfac37e3-80c2-49e4-b5fe-da7850984123",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_2e4eeb94-fecf-4a91-82a1-cfeff086dec6",
+      "createdAt": "2026-09-30T06:43:24.267Z",
+      "updatedAt": "2026-09-30T06:43:24.284Z"
+    },
+    {
+      "id": "comp_85609219-0df2-4520-80e0-d4a4e25f30d5",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_54c5ce5f-a3e0-4ce8-b2b8-0fe9cde25854",
+      "createdAt": "2026-09-30T06:43:24.292Z",
+      "updatedAt": "2026-09-30T06:43:24.309Z"
+    },
+    {
+      "id": "comp_38966ed7-6d48-484d-9409-26f686fb190a",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_8149ffb7-29fc-4977-bd39-5bbd770e334b",
+      "createdAt": "2026-09-30T06:43:24.318Z",
+      "updatedAt": "2026-09-30T06:43:24.337Z"
+    },
+    {
+      "id": "comp_1cc4a638-5b1a-49e6-8503-6bc9b9fa0966",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_8d57539e-b591-48bd-a02f-4ba679a6b19d",
+      "createdAt": "2026-09-30T06:43:24.345Z",
+      "updatedAt": "2026-09-30T06:43:24.361Z"
+    },
+    {
+      "id": "comp_4d24e782-8a9d-4daf-8b8c-fc6dd34f3453",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_d1abd736-2f27-46ad-b8d9-35198672f55d",
+      "createdAt": "2026-09-30T06:43:24.604Z",
+      "updatedAt": "2026-09-30T06:43:24.620Z"
+    },
+    {
+      "id": "comp_6a7e317a-d9ed-4da3-a5df-1a72da14773a",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_aa70a407-8b95-442b-b6e0-fe8e65897d30",
+      "createdAt": "2026-09-30T06:43:24.628Z",
+      "updatedAt": "2026-09-30T06:43:24.645Z"
+    },
+    {
+      "id": "comp_320099af-05bc-49d6-ab85-a0a556d582c3",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_a9f3b800-bb04-4f10-b594-3d2db18e5e05",
+      "createdAt": "2026-09-30T06:43:24.653Z",
+      "updatedAt": "2026-09-30T06:43:24.669Z"
+    },
+    {
+      "id": "comp_92787653-ae7c-44d2-b5a7-27b455a19a46",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_b960f3e0-e74e-41e7-a3e5-515e5eea5dc9",
+      "createdAt": "2026-09-30T06:43:24.677Z",
+      "updatedAt": "2026-09-30T06:43:24.695Z"
+    },
+    {
+      "id": "comp_36f41927-8f2f-4947-b078-9eaf8670e7d9",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_c0048695-9d80-472b-9709-fe737312d251",
+      "createdAt": "2026-09-30T06:43:24.704Z",
+      "updatedAt": "2026-09-30T06:43:24.720Z"
+    },
+    {
+      "id": "comp_9284a5ab-7808-4e31-8026-6b936eb2f12a",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_0a8c0c52-8457-44ba-b553-540f3ec8459e",
+      "createdAt": "2026-09-30T06:43:24.970Z",
+      "updatedAt": "2026-09-30T06:43:24.989Z"
+    },
+    {
+      "id": "comp_fb6a652f-980d-431e-9ab3-5e447cd4d6a9",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_104efd94-6bc7-4480-a196-00776716b5dd",
+      "createdAt": "2026-09-30T06:43:24.999Z",
+      "updatedAt": "2026-09-30T06:43:25.022Z"
+    },
+    {
+      "id": "comp_c70fb9eb-66df-4b2b-8ee8-99d0ebefa573",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_a62276c9-b638-41d9-8d32-84f88ea70d92",
+      "createdAt": "2026-09-30T06:43:25.030Z",
+      "updatedAt": "2026-09-30T06:43:25.050Z"
+    },
+    {
+      "id": "comp_f37ca5f4-bcb1-4650-9e9b-8e1eecdd7baf",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_76be3cd1-99ba-4c87-9c1b-c277633da242",
+      "createdAt": "2026-09-30T06:43:25.061Z",
+      "updatedAt": "2026-09-30T06:43:25.081Z"
+    },
+    {
+      "id": "comp_9de009b4-2eca-424c-90c7-2985b2032361",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_f090e95a-4af7-4ebd-93a8-4fabcfa19331",
+      "createdAt": "2026-09-30T06:43:25.091Z",
+      "updatedAt": "2026-09-30T06:43:25.109Z"
+    },
+    {
+      "id": "comp_9547fd46-fba4-4d29-a3f3-98fead2a2fee",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_6ae25f67-a9e2-4511-99ce-470a75afc987",
+      "createdAt": "2026-09-30T06:43:25.387Z",
+      "updatedAt": "2026-09-30T06:43:25.408Z"
+    },
+    {
+      "id": "comp_011cbc61-83aa-44ad-93c5-496831f37c10",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_54021a49-1bd8-43d7-8568-a5b543dfa50f",
+      "createdAt": "2026-09-30T06:43:25.421Z",
+      "updatedAt": "2026-09-30T06:43:25.445Z"
+    },
+    {
+      "id": "comp_ff558145-1b5e-4f29-8154-7c967657b44a",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_12fc5283-8326-4ad6-a0d8-11732d05e309",
+      "createdAt": "2026-09-30T06:43:25.458Z",
+      "updatedAt": "2026-09-30T06:43:25.477Z"
+    },
+    {
+      "id": "comp_19d756ec-7197-498a-a74e-3fed57a181c8",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": null,
+      "createdAt": "2026-09-30T06:43:25.487Z",
+      "updatedAt": "2026-09-30T06:43:25.487Z"
+    },
+    {
+      "id": "comp_68ba6fa9-e1e1-4cfc-a272-7326a91b2144",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_5409de60-516b-48de-b411-bda809aecdfb",
+      "createdAt": "2026-09-30T06:43:25.522Z",
+      "updatedAt": "2026-09-30T06:43:25.541Z"
+    },
+    {
+      "id": "comp_ee543d7e-21cf-4e78-bf57-e53ae204fa10",
+      "slug": "button",
+      "name": "Button",
+      "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+      "category": "buttons",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_6f5cfe37-f767-4d32-96da-5e3e4db469c4",
+      "createdAt": "2026-09-30T06:43:25.813Z",
+      "updatedAt": "2026-09-30T06:43:25.832Z"
+    },
+    {
+      "id": "comp_68a491f3-f7a7-4829-92e2-95ea9e9c4b27",
+      "slug": "badge",
+      "name": "Badge",
+      "description": "Status pill badge component for pipeline metrics and lead status classification.",
+      "category": "feedback",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_6ded1833-81e9-4199-aad3-b488f5100ed3",
+      "createdAt": "2026-09-30T06:43:25.845Z",
+      "updatedAt": "2026-09-30T06:43:25.871Z"
+    },
+    {
+      "id": "comp_7395d33a-1ec0-412a-8b4f-b4883800dd6c",
+      "slug": "input",
+      "name": "Input",
+      "description": "Accessible search and text field input matching Sales CRM design tokens.",
+      "category": "inputs",
+      "accessLevel": "free",
+      "status": "published",
+      "currentVersionId": "ver_bf429555-fee1-4664-bd8d-07ffb839fcf9",
+      "createdAt": "2026-09-30T06:43:25.880Z",
+      "updatedAt": "2026-09-30T06:43:25.898Z"
+    },
+    {
+      "id": "comp_747346ca-9779-4c74-8da2-ca91de09839a",
+      "slug": "data-table",
+      "name": "DataTable",
+      "description": "High-performance CRM data table component with sortable headers and row selection.",
+      "category": "tables",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_3faf49a4-d80f-40bd-b641-89c46b37e262",
+      "createdAt": "2026-09-30T06:43:25.908Z",
+      "updatedAt": "2026-09-30T06:43:25.927Z"
+    },
+    {
+      "id": "comp_083014f1-d87b-43de-80bf-b9a79363f1a8",
+      "slug": "kanban-card",
+      "name": "KanbanCard",
+      "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+      "category": "cards",
+      "accessLevel": "premium",
+      "status": "published",
+      "currentVersionId": "ver_e75e6369-df46-46a6-b2b1-83b28ec0dbed",
+      "createdAt": "2026-09-30T06:43:25.936Z",
+      "updatedAt": "2026-09-30T06:43:25.955Z"
     }
   ],
   "versions": [
@@ -5541,26 +5901,908 @@
       },
       "bundleHash": "6710261dcad50a464a1388420e408cf82b52c308ab87951553998db50e7751db",
       "createdAt": "2026-09-30T05:34:27.351Z"
+    },
+    {
+      "id": "ver_d2f949de-870d-4f0a-bada-0bcf24dba2f7",
+      "componentId": "comp_3dc60275-979a-44c2-8e63-f0f7c7f5d8e6",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:23.884Z"
+    },
+    {
+      "id": "ver_1084aec0-ba8b-417d-ac84-3605d96e8d6f",
+      "componentId": "comp_df58fcd4-55a1-4085-aad4-878497265053",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:23.908Z"
+    },
+    {
+      "id": "ver_989928f9-f02d-45e3-9c4f-803369ab7bb5",
+      "componentId": "comp_44843830-e5a1-45ae-bc87-fb8cedca1a1c",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:23.931Z"
+    },
+    {
+      "id": "ver_4a737246-b009-4733-b1e9-7dd43c0d49d3",
+      "componentId": "comp_7789d5b4-5cfa-4ab9-88fc-528ec0b5d052",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:23.961Z"
+    },
+    {
+      "id": "ver_2510e6ec-f44d-4aa1-ae44-d72eb25ff190",
+      "componentId": "comp_8790f717-9f4d-4f18-807a-dd87c7e29df7",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:23.986Z"
+    },
+    {
+      "id": "ver_9bfa66e0-a7a1-48ec-bbac-eab27efb56d4",
+      "componentId": "comp_32b7c971-6bb2-4fa4-af6a-345da17b878d",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:24.251Z"
+    },
+    {
+      "id": "ver_2e4eeb94-fecf-4a91-82a1-cfeff086dec6",
+      "componentId": "comp_bfac37e3-80c2-49e4-b5fe-da7850984123",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:24.276Z"
+    },
+    {
+      "id": "ver_54c5ce5f-a3e0-4ce8-b2b8-0fe9cde25854",
+      "componentId": "comp_85609219-0df2-4520-80e0-d4a4e25f30d5",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:24.301Z"
+    },
+    {
+      "id": "ver_8149ffb7-29fc-4977-bd39-5bbd770e334b",
+      "componentId": "comp_38966ed7-6d48-484d-9409-26f686fb190a",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:24.326Z"
+    },
+    {
+      "id": "ver_8d57539e-b591-48bd-a02f-4ba679a6b19d",
+      "componentId": "comp_1cc4a638-5b1a-49e6-8503-6bc9b9fa0966",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:24.353Z"
+    },
+    {
+      "id": "ver_d1abd736-2f27-46ad-b8d9-35198672f55d",
+      "componentId": "comp_4d24e782-8a9d-4daf-8b8c-fc6dd34f3453",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:24.612Z"
+    },
+    {
+      "id": "ver_aa70a407-8b95-442b-b6e0-fe8e65897d30",
+      "componentId": "comp_6a7e317a-d9ed-4da3-a5df-1a72da14773a",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:24.637Z"
+    },
+    {
+      "id": "ver_a9f3b800-bb04-4f10-b594-3d2db18e5e05",
+      "componentId": "comp_320099af-05bc-49d6-ab85-a0a556d582c3",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:24.661Z"
+    },
+    {
+      "id": "ver_b960f3e0-e74e-41e7-a3e5-515e5eea5dc9",
+      "componentId": "comp_92787653-ae7c-44d2-b5a7-27b455a19a46",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:24.685Z"
+    },
+    {
+      "id": "ver_c0048695-9d80-472b-9709-fe737312d251",
+      "componentId": "comp_36f41927-8f2f-4947-b078-9eaf8670e7d9",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:24.712Z"
+    },
+    {
+      "id": "ver_0a8c0c52-8457-44ba-b553-540f3ec8459e",
+      "componentId": "comp_9284a5ab-7808-4e31-8026-6b936eb2f12a",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:24.979Z"
+    },
+    {
+      "id": "ver_104efd94-6bc7-4480-a196-00776716b5dd",
+      "componentId": "comp_fb6a652f-980d-431e-9ab3-5e447cd4d6a9",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:25.011Z"
+    },
+    {
+      "id": "ver_a62276c9-b638-41d9-8d32-84f88ea70d92",
+      "componentId": "comp_c70fb9eb-66df-4b2b-8ee8-99d0ebefa573",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:25.041Z"
+    },
+    {
+      "id": "ver_76be3cd1-99ba-4c87-9c1b-c277633da242",
+      "componentId": "comp_f37ca5f4-bcb1-4650-9e9b-8e1eecdd7baf",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:25.073Z"
+    },
+    {
+      "id": "ver_f090e95a-4af7-4ebd-93a8-4fabcfa19331",
+      "componentId": "comp_9de009b4-2eca-424c-90c7-2985b2032361",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:25.100Z"
+    },
+    {
+      "id": "ver_6ae25f67-a9e2-4511-99ce-470a75afc987",
+      "componentId": "comp_9547fd46-fba4-4d29-a3f3-98fead2a2fee",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:25.397Z"
+    },
+    {
+      "id": "ver_54021a49-1bd8-43d7-8568-a5b543dfa50f",
+      "componentId": "comp_011cbc61-83aa-44ad-93c5-496831f37c10",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:25.432Z"
+    },
+    {
+      "id": "ver_12fc5283-8326-4ad6-a0d8-11732d05e309",
+      "componentId": "comp_ff558145-1b5e-4f29-8154-7c967657b44a",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:25.468Z"
+    },
+    {
+      "id": "ver_b782e999-90b6-448c-a013-7feaceb32e19",
+      "componentId": "comp_19d756ec-7197-498a-a74e-3fed57a181c8",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:25.495Z"
+    },
+    {
+      "id": "ver_5409de60-516b-48de-b411-bda809aecdfb",
+      "componentId": "comp_68ba6fa9-e1e1-4cfc-a272-7326a91b2144",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:25.532Z"
+    },
+    {
+      "id": "ver_6f5cfe37-f767-4d32-96da-5e3e4db469c4",
+      "componentId": "comp_ee543d7e-21cf-4e78-bf57-e53ae204fa10",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "button",
+        "name": "Button",
+        "description": "Versatile interactive button component styled after Sales CRM design tokens.",
+        "category": "buttons",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0",
+          "clsx": "^2.1.0"
+        },
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Button.tsx",
+            "content": "import React from 'react';\n\nexport interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {\n  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';\n  size?: 'sm' | 'md' | 'lg';\n}\n\nexport const Button: React.FC<ButtonProps> = ({\n  children,\n  variant = 'primary',\n  size = 'md',\n  className = '',\n  ...props\n}) => {\n  const baseStyle: React.CSSProperties = {\n    display: 'inline-flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    borderRadius: 'var(--ti-radius-md, 6px)',\n    fontWeight: 500,\n    fontFamily: 'var(--ti-font-sans)',\n    cursor: 'pointer',\n    transition: 'all 0.15s ease',\n    border: '1px solid transparent',\n    padding: size === 'sm' ? '6px 12px' : size === 'lg' ? '12px 24px' : '8px 16px',\n    fontSize: size === 'sm' ? '13px' : size === 'lg' ? '15px' : '14px',\n    gap: '8px'\n  };\n\n  const variantStyles: Record<string, React.CSSProperties> = {\n    primary: { background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff' },\n    secondary: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-subtle, #1e293b)' },\n    outline: { background: 'transparent', color: 'var(--ti-text-primary, #f8fafc)', borderColor: 'var(--ti-border-medium, #334155)' },\n    ghost: { background: 'transparent', color: 'var(--ti-text-secondary, #94a3b8)' },\n    danger: { background: 'var(--ti-color-danger, #ef4444)', color: '#ffffff' }\n  };\n\n  return (\n    <button style={{ ...baseStyle, ...variantStyles[variant] }} className={className} {...props}>\n      {children}\n    </button>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Button Component\n\nSales CRM action button supporting primary, secondary, outline, ghost, and danger variants.",
+        "example": "<Button variant=\"primary\">Create Deal</Button>",
+        "thumbnail": null
+      },
+      "bundleHash": "418e484cb71ffb9f088187efe0dd605fc03760bf3ac38c946b07a5cac70293c7",
+      "createdAt": "2026-09-30T06:43:25.822Z"
+    },
+    {
+      "id": "ver_6ded1833-81e9-4199-aad3-b488f5100ed3",
+      "componentId": "comp_68a491f3-f7a7-4829-92e2-95ea9e9c4b27",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "badge",
+        "name": "Badge",
+        "description": "Status pill badge component for pipeline metrics and lead status classification.",
+        "category": "feedback",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Badge.tsx",
+            "content": "import React from 'react';\n\nexport interface BadgeProps {\n  children: React.ReactNode;\n  variant?: 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'premium';\n}\n\nexport const Badge: React.FC<BadgeProps> = ({ children, variant = 'neutral' }) => {\n  const styles: Record<string, React.CSSProperties> = {\n    success: { background: 'var(--ti-color-success-light, rgba(16, 185, 129, 0.15))', color: 'var(--ti-color-success, #10b981)', border: '1px solid rgba(16, 185, 129, 0.3)' },\n    warning: { background: 'var(--ti-color-warning-light, rgba(245, 158, 11, 0.15))', color: 'var(--ti-color-warning, #f59e0b)', border: '1px solid rgba(245, 158, 11, 0.3)' },\n    danger: { background: 'var(--ti-color-danger-light, rgba(239, 68, 68, 0.15))', color: 'var(--ti-color-danger, #ef4444)', border: '1px solid rgba(239, 68, 68, 0.3)' },\n    info: { background: 'rgba(99, 102, 241, 0.15)', color: 'var(--ti-color-primary, #6366f1)', border: '1px solid rgba(99, 102, 241, 0.3)' },\n    neutral: { background: 'var(--ti-bg-surface-hover, #1f2937)', color: 'var(--ti-text-secondary, #94a3b8)', border: '1px solid var(--ti-border-subtle, #1e293b)' },\n    premium: { background: 'var(--ti-color-premium-light, rgba(168, 85, 247, 0.15))', color: 'var(--ti-color-premium, #a855f7)', border: '1px solid rgba(168, 85, 247, 0.3)' }\n  };\n\n  return (\n    <span\n      style={{\n        display: 'inline-flex',\n        alignItems: 'center',\n        padding: '2px 8px',\n        borderRadius: 'var(--ti-radius-pill, 9999px)',\n        fontSize: '12px',\n        fontWeight: 600,\n        fontFamily: 'var(--ti-font-sans)',\n        ...styles[variant]\n      }}\n    >\n      {children}\n    </span>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Badge Component\n\nCompact indicator pill for pipeline stages and entity states.",
+        "example": "<Badge variant=\"success\">Qualified Lead</Badge>",
+        "thumbnail": null
+      },
+      "bundleHash": "a82b44009b6a54ac9de12779d58ea4ef833e91e930760d235241d4d61d23a346",
+      "createdAt": "2026-09-30T06:43:25.861Z"
+    },
+    {
+      "id": "ver_bf429555-fee1-4664-bd8d-07ffb839fcf9",
+      "componentId": "comp_7395d33a-1ec0-412a-8b4f-b4883800dd6c",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "input",
+        "name": "Input",
+        "description": "Accessible search and text field input matching Sales CRM design tokens.",
+        "category": "inputs",
+        "version": "1.0.0",
+        "access": "free",
+        "npmDependencies": {},
+        "registryDependencies": [],
+        "files": [
+          {
+            "path": "Input.tsx",
+            "content": "import React from 'react';\n\nexport interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {\n  label?: string;\n  error?: string;\n}\n\nexport const Input = React.forwardRef<HTMLInputElement, InputProps>(\n  ({ label, error, className = '', style, ...props }, ref) => {\n    return (\n      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', width: '100%' }}>\n        {label && (\n          <label style={{ fontSize: '13px', fontWeight: 500, color: 'var(--ti-text-secondary, #94a3b8)' }}>\n            {label}\n          </label>\n        )}\n        <input\n          ref={ref}\n          style={{\n            background: 'var(--ti-bg-surface, #111827)',\n            border: error ? '1px solid var(--ti-color-danger, #ef4444)' : '1px solid var(--ti-border-subtle, #1e293b)',\n            borderRadius: 'var(--ti-radius-md, 6px)',\n            padding: '8px 12px',\n            color: 'var(--ti-text-primary, #f8fafc)',\n            fontSize: '14px',\n            outline: 'none',\n            transition: 'border-color 0.15s ease',\n            ...style\n          }}\n          {...props}\n        />\n        {error && <span style={{ fontSize: '12px', color: 'var(--ti-color-danger, #ef4444)' }}>{error}</span>}\n      </div>\n    );\n  }\n);\nInput.displayName = 'Input';",
+            "type": "component"
+          }
+        ],
+        "documentation": "# Input Component\n\nText input component with label support and focus state handling.",
+        "example": "<Input label=\"Search Deals\" placeholder=\"Type deal name...\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "c9f27ac50855681b76f343ad5a364487d748264baf342eddfd56cb5687ef3f44",
+      "createdAt": "2026-09-30T06:43:25.890Z"
+    },
+    {
+      "id": "ver_3faf49a4-d80f-40bd-b641-89c46b37e262",
+      "componentId": "comp_747346ca-9779-4c74-8da2-ca91de09839a",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "data-table",
+        "name": "DataTable",
+        "description": "High-performance CRM data table component with sortable headers and row selection.",
+        "category": "tables",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "button",
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "DataTable.tsx",
+            "content": "import React from 'react';\n\nexport interface Column<T> {\n  key: string;\n  header: string;\n  render?: (row: T) => React.ReactNode;\n}\n\nexport interface DataTableProps<T> {\n  columns: Column<T>[];\n  data: T[];\n  onRowClick?: (row: T) => void;\n}\n\nexport function DataTable<T extends { id: string | number }>({\n  columns,\n  data,\n  onRowClick\n}: DataTableProps<T>) {\n  return (\n    <div style={{ width: '100%', overflowX: 'auto', border: '1px solid var(--ti-border-subtle, #1e293b)', borderRadius: 'var(--ti-radius-lg, 8px)' }}>\n      <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px', color: 'var(--ti-text-primary, #f8fafc)' }}>\n        <thead>\n          <tr style={{ background: 'var(--ti-bg-surface, #111827)', borderBottom: '1px solid var(--ti-border-subtle, #1e293b)' }}>\n            {columns.map((col) => (\n              <th key={col.key} style={{ padding: '12px 16px', fontSize: '12px', fontWeight: 600, color: 'var(--ti-text-secondary, #94a3b8)', textTransform: 'uppercase' }}>\n                {col.header}\n              </th>\n            ))}\n          </tr>\n        </thead>\n        <tbody>\n          {data.map((row) => (\n            <tr\n              key={row.id}\n              onClick={() => onRowClick && onRowClick(row)}\n              style={{\n                borderBottom: '1px solid var(--ti-border-subtle, #1e293b)',\n                background: 'var(--ti-bg-card, #131c2e)',\n                cursor: onRowClick ? 'pointer' : 'default',\n                transition: 'background 0.15s ease'\n              }}\n            >\n              {columns.map((col) => (\n                <td key={col.key} style={{ padding: '12px 16px' }}>\n                  {col.render ? col.render(row) : (row as any)[col.key]}\n                </td>\n              ))}\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}",
+            "type": "component"
+          }
+        ],
+        "documentation": "# DataTable Component (Premium)\n\nAdvanced data table for displaying large sets of CRM records with custom cell rendering.",
+        "example": "<DataTable columns={[{ key: \"name\", header: \"Company\" }]} data={[{ id: \"1\", name: \"Acme Corp\" }]} />",
+        "thumbnail": null
+      },
+      "bundleHash": "504b87f4abdc0918e4af93f717d32c9d902c35204636b6717e1161c04c665fd7",
+      "createdAt": "2026-09-30T06:43:25.918Z"
+    },
+    {
+      "id": "ver_e75e6369-df46-46a6-b2b1-83b28ec0dbed",
+      "componentId": "comp_083014f1-d87b-43de-80bf-b9a79363f1a8",
+      "version": "1.0.0",
+      "bundleJson": {
+        "slug": "kanban-card",
+        "name": "KanbanCard",
+        "description": "Pipeline opportunity card displaying deal value, account contact, and status tag.",
+        "category": "cards",
+        "version": "1.0.0",
+        "access": "premium",
+        "npmDependencies": {
+          "lucide-react": "^0.300.0"
+        },
+        "registryDependencies": [
+          "badge"
+        ],
+        "files": [
+          {
+            "path": "KanbanCard.tsx",
+            "content": "import React from 'react';\n\nexport interface KanbanCardProps {\n  title: string;\n  amount: string;\n  company: string;\n  stage: string;\n  ownerInitial?: string;\n  onClick?: () => void;\n}\n\nexport const KanbanCard: React.FC<KanbanCardProps> = ({\n  title,\n  amount,\n  company,\n  stage,\n  ownerInitial = 'TI',\n  onClick\n}) => {\n  return (\n    <div\n      onClick={onClick}\n      style={{\n        background: 'var(--ti-bg-card, #131c2e)',\n        border: '1px solid var(--ti-border-subtle, #1e293b)',\n        borderRadius: 'var(--ti-radius-lg, 8px)',\n        padding: '16px',\n        display: 'flex',\n        flexDirection: 'column',\n        gap: '12px',\n        cursor: 'pointer',\n        boxShadow: 'var(--ti-shadow-sm)',\n        transition: 'transform 0.15s ease, border-color 0.15s ease'\n      }}\n    >\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>\n        <h4 style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: 'var(--ti-text-primary, #f8fafc)' }}>\n          {title}\n        </h4>\n        <span style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ti-color-success, #10b981)' }}>\n          {amount}\n        </span>\n      </div>\n      <div style={{ fontSize: '13px', color: 'var(--ti-text-secondary, #94a3b8)' }}>\n        {company}\n      </div>\n      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>\n        <span style={{ fontSize: '11px', background: 'var(--ti-bg-surface-hover, #1f2937)', padding: '2px 6px', borderRadius: '4px', color: 'var(--ti-text-muted, #64748b)' }}>\n          {stage}\n        </span>\n        <div style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'var(--ti-color-primary, #6366f1)', color: '#ffffff', fontSize: '11px', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>\n          {ownerInitial}\n        </div>\n      </div>\n    </div>\n  );\n};",
+            "type": "component"
+          }
+        ],
+        "documentation": "# KanbanCard Component (Premium)\n\nVisual pipeline card for sales leads and deal stage tracking.",
+        "example": "<KanbanCard title=\"Enterprise License\" amount=\"$45,000\" company=\"Stripe Inc\" stage=\"Proposal Sent\" />",
+        "thumbnail": null
+      },
+      "bundleHash": "55dd093e0f39051d1453e659d4bb0f66596dedbcd42bba9922015262fd313269",
+      "createdAt": "2026-09-30T06:43:25.946Z"
     }
   ],
   "customers": [
     {
       "id": "cust_free_default",
       "email": "free@techinject.design",
-      "passwordHash": "$2a$10$vwWI8kljU6V/TzNPI1/WheIyYWsfJExzwvjfywfz4h03KqNy27hGG",
+      "passwordHash": "$2a$10$j1kKoDp.ogNNHh7a0rfmIOpFxY41yp5yl9KB7C28Qn3YfDOTISVYK",
       "isPremium": false,
       "premiumGrantedAt": null,
       "premiumRevokedAt": null,
-      "createdAt": "2026-09-30T05:35:20.638Z"
+      "createdAt": "2026-09-30T06:44:33.054Z"
     },
     {
       "id": "cust_premium_default",
       "email": "premium@techinject.design",
-      "passwordHash": "$2a$10$oRJHJdju9s2RT6GPIP4HhOZrAv3ey5W2xUBj74Ae3Exm8zELoYI2S",
+      "passwordHash": "$2a$10$PNPfShCzwV8HuKlIAyz5Uuf6ztAIJKAQSriAU0muAozayElx1cZ22",
       "isPremium": true,
-      "premiumGrantedAt": "2026-09-30T05:35:20.638Z",
+      "premiumGrantedAt": "2026-09-30T06:44:33.054Z",
       "premiumRevokedAt": null,
-      "createdAt": "2026-09-30T05:35:20.638Z"
+      "createdAt": "2026-09-30T06:44:33.054Z"
     },
     {
       "id": "cust_45d9605e-fe88-4e5e-9d6d-1adafcdcaf55",
@@ -5993,6 +7235,114 @@
       "premiumGrantedAt": "2026-09-30T05:27:15.990Z",
       "premiumRevokedAt": null,
       "createdAt": "2026-09-30T05:27:15.990Z"
+    },
+    {
+      "id": "cust_2a981b2e-cc61-4318-81ee-6bd25e326a1e",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$36bGh1hvGTaQ6OPlQkO.besf/N.xBFCIxNoubBAmx1a3Cmh1uVCvu",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:23.857Z"
+    },
+    {
+      "id": "cust_986bf480-2c65-46d2-abb0-3b0f3f22d4b5",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$iV0ij1D8UcWXrxfnHmaHr.FQzAmktgE4wy59dxVX4jx2XkPKVRyqK",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:23.865Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:23.865Z"
+    },
+    {
+      "id": "cust_5b29050e-11a5-438e-adca-f3369eeb4ed2",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$F1FgEgxSuw/Q5QUXg4zQWO/dKXmuE5cp9nEsXgaM8UgYIraNyWkiy",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.223Z"
+    },
+    {
+      "id": "cust_28981ab9-3242-4f5a-8981-4f9cfc585175",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$oEQXZh3omw6q5PLu/jYwu.YmkEr3SDoh3RL5zR548HWsr27Le5jka",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:24.230Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.230Z"
+    },
+    {
+      "id": "cust_70f5b412-65c3-4736-aa25-9f90145cc9d1",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$Zq4IxLQkxdU9.UHc9ijF/ux0lfjljZNcyi.t1PdGYrI5fBJ8Zk71W",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.587Z"
+    },
+    {
+      "id": "cust_190a5580-80b7-4bee-ae31-2f0d9c1738a5",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$./RnRULGHN7bbIB6aHeUX.gSyv3lhUNRGSZlRW8NO7QNPsIJ3YkBq",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:24.594Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.594Z"
+    },
+    {
+      "id": "cust_43fd7221-25c4-4ff5-8f45-bf2c4e403bbf",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$.S.rX.H3/oLTtG2bLDp3yOZZn0IUZ/ymfyJ/zldE98BZAWyGKBvf6",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.952Z"
+    },
+    {
+      "id": "cust_a089c26b-4e11-4498-886e-6e7c830acd12",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$p5I7Fuo5LTVrJUd8hm8xd.Bmk7Puv/xihFGJw/kpPZN4jcyEYMrPG",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:24.960Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:24.960Z"
+    },
+    {
+      "id": "cust_6a393e7e-987d-475f-b673-3dff7489f44f",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$Wjw9V46cd4NGa1Hzg6nMN.nW2NvG/7jOiq396sJE3M6ogAxpPhGgG",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:25.368Z"
+    },
+    {
+      "id": "cust_2251d18d-aa51-4181-af3e-813c3ca1d745",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$fBTQ.i7dy9zYUgvrt9772e.oYsBbk0il55pN7XhurbeIcPGfSoBxq",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:25.377Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:25.377Z"
+    },
+    {
+      "id": "cust_99753d63-9f9b-41df-9a21-29d0319303b3",
+      "email": "free@techinject.design",
+      "passwordHash": "$2a$10$BsCqM..66igfzyNk24aAxuEB.GGM7x1aHgizlnTsLzM.z6RTwZBLe",
+      "isPremium": false,
+      "premiumGrantedAt": null,
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:25.794Z"
+    },
+    {
+      "id": "cust_058f4b9a-810d-4093-8207-756602a6ae4f",
+      "email": "premium@techinject.design",
+      "passwordHash": "$2a$10$xf2LeAH3tBPwh8./UQivxeAADTciIDL3IJIuRyVTe4yq7mvLwngEO",
+      "isPremium": true,
+      "premiumGrantedAt": "2026-09-30T06:43:25.803Z",
+      "premiumRevokedAt": null,
+      "createdAt": "2026-09-30T06:43:25.803Z"
     }
   ],
   "tokens": [
